@@ -7,6 +7,8 @@ Before going into project let's know about the website we are going to clone,
 Zee5 is an Indian subscription video on-demand and over the top streaming service runned by ZEE Entertainments Enterprises. It was launched in India on 14 feb 2018 with content in 12 languages.
 
 We had tried our best to clone the ZEE5 website in  this limited time of one week. Actually this was a tough journey for our team to do complete this in given time. However our team was so great that can understand each ones potential and assign the task ourself and get it done on time.
+- [Click here](https://jocular-pony-971066.netlify.app/) to see preview of my project.
+
 
 ## Our Team Members
 - Anjali Dhanjode (My Linkedin profile :- https://www.linkedin.com/in/anjali-dhanjode-8b1292159/)
